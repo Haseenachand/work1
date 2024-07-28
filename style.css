@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background:linear-gradient(to left bottom, rgb(100, 100, 218), hsl(350, 48%, 51%),rgb(100, 100, 218) ) ;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+.contianar{
+    background-color: rgba(255, 255, 255, .3);
+    padding: 20px;
+    box-shadow: 0 6px 10px rgba(0,0,0,.3);
+    border-radius: 15px;
+    width: 85%;
+    text-align: center;
+    color: rgb(124, 8, 233);
+}
